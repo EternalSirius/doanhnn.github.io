@@ -93,9 +93,9 @@ nav_order: 0
   }
 </style>
 
-## ✨ 私のウェブサイトへようこそ
+# ✨ 私のウェブサイトへようこそ
 
-- My ORCID: [Link](https://orcid.org/0009-0008-9914-5504)
+> ORCID: [[Link](https://orcid.org/0009-0008-9914-5504)]
 
-- My Scopus ID: [Link](https://www.scopus.com/authid/detail.uri?authorId=57215284775)
+> Scopus: [[Link](https://www.scopus.com/authid/detail.uri?authorId=57215284775)]
 
