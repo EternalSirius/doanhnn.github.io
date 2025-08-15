@@ -6,4 +6,8 @@ permalink: /publication/
 
 ## Journal Article
 
-## 
+## Conference Papers
+
+## Patents
+
+## Book Chapters
