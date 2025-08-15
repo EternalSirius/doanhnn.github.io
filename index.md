@@ -1,11 +1,12 @@
 ---
-title: 朝顔に　わたる蝶よ　我が命
+title: 朝顔に わたる蝶よ 我が命
 layout: home
 has_toc: false
 has_children: false
 nav_order: 0
 ---
 
+朝顔に わたる蝶よ 我が命。
 Welcome to my website.
 
 [ORCID](https://orcid.org/0009-0008-9914-5504)
