@@ -1,5 +1,4 @@
 ---
-title: Home
 layout: home
 has_toc: false
 has_children: false
@@ -94,7 +93,7 @@ nav_order: 0
   }
 </style>
 
-## ✨ Welcome
+## ✨ 私のウェブサイトへようこそ
 
 - My ORCID: [Link](https://orcid.org/0009-0008-9914-5504)
 
