@@ -1,10 +1,11 @@
 ---
-title: 朝顔に わたる蝶よ 我が命
+title: Home
 layout: home
 has_toc: false
 has_children: false
 nav_order: 0
 ---
+# About myself
 
 朝顔に わたる蝶よ 我が命。
 Welcome to my website.
