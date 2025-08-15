@@ -1,11 +1,14 @@
 ---
-title: Home
+title: About Myself
 layout: home
 has_toc: false
 has_children: false
 nav_order: 0
 ---
-# About myself
+{: .no_toc }
+# About Myself
+
+{: .no_toc }
 
 朝顔に わたる蝶よ 我が命。
 
