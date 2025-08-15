@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 朝顔に　わたる蝶よ　我が命
 layout: home
 has_toc: false
 has_children: false
