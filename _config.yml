@@ -7,3 +7,19 @@ remote_theme: "jekyll/minima@1e8a445"
 url: https://eternalsirius.github.io
 
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
+
+minima:
+  skin: dark
+
+  nav_pages:
+    - about.md
+
+
+
