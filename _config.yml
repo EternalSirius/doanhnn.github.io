@@ -21,6 +21,7 @@ minima:
   nav_pages:
     - about.md
     - publication.md
+    - contribution.md    
 
 
 
