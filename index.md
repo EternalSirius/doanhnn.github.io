@@ -5,16 +5,17 @@ has_toc: false
 has_children: false
 nav_order: 0
 ---
-<style>
-  body {
-    background-image: url('assets/images/Saekano/image1.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    color: white; /* Optional: makes text readable on dark backgrounds */
-  }
-</style>
+<!-- <style> -->
+<!--   body { -->
+<!--     background-image: url('assets/images/Saekano/image1.jpg'); -->
+<!--     background-size: cover; -->
+<!--     background-repeat: no-repeat; -->
+<!--     background-position: center; -->
+<!--     color: dark; /* Optional: makes text readable on dark backgrounds */ -->
+<!--   } -->
+<!-- </style> -->
 
+<canvas class="jump-animation"></canvas>
 
 Welcome to my website.
 
