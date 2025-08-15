@@ -39,7 +39,7 @@ nav_order: 0
     background-size: cover;
     background-position: center;
     opacity: 0;
-    animation: fade 3.6s infinite;
+    animation: fade 17.5s infinite;
   }
 
   @keyframes fade {
@@ -53,41 +53,41 @@ nav_order: 0
 
 <div class="bg-container">
   <div class="bg-image" style="background-image: url('assets/images/Saekano/image1.jpg'); animation-delay: 0s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image2.jpg'); animation-delay: 0.1s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image3.jpg'); animation-delay: 0.2s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image4.jpg'); animation-delay: 0.3s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image5.jpg'); animation-delay: 0.4s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image6.jpg'); animation-delay: 0.5s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image7.jpg'); animation-delay: 0.6s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image8.jpg'); animation-delay: 0.7s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image9.jpg'); animation-delay: 0.8s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image10.jpg'); animation-delay: 0.9s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image11.jpg'); animation-delay: 1.0s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image12.jpg'); animation-delay: 1.1s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image13.jpg'); animation-delay: 1.2s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image14.jpg'); animation-delay: 1.3s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image15.jpg'); animation-delay: 1.4s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image16.jpg'); animation-delay: 1.5s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image17.jpg'); animation-delay: 1.6s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image18.jpg'); animation-delay: 1.7s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image19.jpg'); animation-delay: 1.8s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image20.jpg'); animation-delay: 1.9s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image21.jpg'); animation-delay: 2.0s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image22.jpg'); animation-delay: 2.1s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image23.jpg'); animation-delay: 2.2s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image24.jpg'); animation-delay: 2.3s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image25.jpg'); animation-delay: 2.4s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image26.jpg'); animation-delay: 2.5s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image27.jpg'); animation-delay: 2.6s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image28.jpg'); animation-delay: 2.7s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image29.jpg'); animation-delay: 2.8s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image30.jpg'); animation-delay: 2.9s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image31.jpg'); animation-delay: 3.0s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image32.jpg'); animation-delay: 3.1s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image33.jpg'); animation-delay: 3.2s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image34.jpg'); animation-delay: 3.3s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image35.jpg'); animation-delay: 3.4s;"></div>
-  <div class="bg-image" style="background-image: url('assets/images/Saekano/image36.jpg'); animation-delay: 3.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image2.jpg'); animation-delay: 0.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image3.jpg'); animation-delay: 1s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image4.jpg'); animation-delay: 1.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image5.jpg'); animation-delay: 2s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image6.jpg'); animation-delay: 2.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image7.jpg'); animation-delay: 3s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image8.jpg'); animation-delay: 3.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image9.jpg'); animation-delay: 4s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image10.jpg'); animation-delay: 4.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image11.jpg'); animation-delay: 5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image12.jpg'); animation-delay: 5.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image13.jpg'); animation-delay: 6s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image14.jpg'); animation-delay: 6.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image15.jpg'); animation-delay: 7s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image16.jpg'); animation-delay: 7.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image17.jpg'); animation-delay: 8s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image18.jpg'); animation-delay: 8.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image19.jpg'); animation-delay: 9s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image20.jpg'); animation-delay: 9.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image21.jpg'); animation-delay: 10s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image22.jpg'); animation-delay: 10.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image23.jpg'); animation-delay: 11s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image24.jpg'); animation-delay: 11.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image25.jpg'); animation-delay: 12s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image26.jpg'); animation-delay: 12.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image27.jpg'); animation-delay: 13s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image28.jpg'); animation-delay: 13.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image29.jpg'); animation-delay: 14s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image30.jpg'); animation-delay: 14.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image31.jpg'); animation-delay: 15s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image32.jpg'); animation-delay: 15.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image33.jpg'); animation-delay: 16s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image34.jpg'); animation-delay: 16.5s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image35.jpg'); animation-delay: 17s;"></div>
+  <div class="bg-image" style="background-image: url('assets/images/Saekano/image36.jpg'); animation-delay: 17.5s;"></div>
 </div>
 
 Welcome to my website.
