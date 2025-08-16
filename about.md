@@ -5,8 +5,29 @@ permalink: /about/
 ---
 
 ### Biography
-<div style="display: flex; align-items: flex-start;">
-  <img src="{{ 'assets/images/author_doanh.jpg' | relative_url }}" alt="Ngo-Doanh Nguyen" style="width: 200px; margin-right: 20px; border-radius: 8px;">
+<style>
+  .profile-block {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    margin: 20px;
+  }
+
+  .profile-block img {
+    width: 150px;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .profile-block p {
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+</style>
+
+<div class="profile-block">
+  <img src="{{ 'assets/images/author_doanh.jpg' | relative_url }}" alt="Ngo-Doanh Nguyen">
   <p><strong>Ngo-Doanh Nguyen</strong> (Graduate Student Member, IEEE) is currently a Ph.D. candidate in Electromagnetism, Electronics, and Telecommunications at the University of Genoa, Italy. He received an M.Sc. degree in Computer Science and Engineering at the Graduate School of Computer Science and Engineering, The University of Aizu, Aizuwakamatsu, Japan, in 2024. He was a Research Engineer on system integration and VLSI design for artificial intelligence with the Information Technology Institute, Vietnam National University, Hanoi (2018–2022), where he received a B.Sc. in Electronics and Communications Engineering (ECE), in 2019. His research interests include hardware/software co-design and verification, and low-power solutions for artificial intelligence.</p>
 </div>
 
