@@ -14,7 +14,7 @@ permalink: /about/
   }
 
   .profile-block img {
-    width: 150px;
+    width: 200px;
     height: auto;
     border-radius: 8px;
   }
@@ -23,6 +23,7 @@ permalink: /about/
     margin: 0;
     font-size: 1rem;
     line-height: 1.6;
+	text-align: justify;
   }
 </style>
 
