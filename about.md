@@ -7,23 +7,21 @@ permalink: /about/
 ### Biography
 <style>
   .profile-block {
-    display: flex;
-    align-items: flex-start;
-    gap: 20px;
     margin: 20px;
   }
 
   .profile-block img {
+    float: left;
+    margin-right: 20px;
     width: 200px;
     height: auto;
     border-radius: 8px;
   }
 
   .profile-block p {
-    margin: 0;
+    text-align: justify;
     font-size: 1rem;
     line-height: 1.6;
-	text-align: justify;
   }
 </style>
 
