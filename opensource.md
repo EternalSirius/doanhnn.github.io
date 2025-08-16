@@ -14,7 +14,7 @@ This cool website is a good start for hardware-design beginners. It introduces b
 
 [[Link](https://github.com/EternalSirius/EDAS-Tool-Examples)]
 
-This is my tutorial created when I was a master student. The tutorial shows a simple hardware example of a detector Finite-State Machine from RTl to GDS using Cadence and Synopsys Design Flow.
+This is my tutorial created when I was a master student. The tutorial shows a simple hardware example of a detector Finite-State Machine from RTL to GDS using Cadence and Synopsys Design Flow.
 
 ### Hugging Face
 
@@ -32,11 +32,11 @@ This is a good start for an AI learner in LLM. They support state-of-the-art pre
 
 This is a kind of advance opensources. Only for who loves to build their own RISC-V based CPU. 
 
-### Imagenet Dataset Extraction
+### ImageNet Dataset Extraction
 
 [[Link](https://gist.github.com/BIGBALLON/8a71d225eff18d88e469e6ea9b39cef4)]
 
-This is a cool script that I found out on Github. I did have a trouble with the Imagenet dataset's structure at first, but this script saves me a lot of time.
+This is a cool script that I found out on Github. I did have a trouble with the ImageNet dataset's structure at first, but this script saves me a lot of time.
 
 ### Spiking Neural Network
 
