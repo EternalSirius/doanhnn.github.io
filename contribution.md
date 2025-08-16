@@ -8,6 +8,8 @@ permalink: /contribution/
 
 - `TPC Member` in the 2025 IEEE 10th International Conference on Integrated Circuits, Design and Verification (ICDV).
 
+- `Volunteer Member` in the 2024 IEEE 17th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC).
+
 - `TPC Member` in the 2024 IEEE 9th International Conference on Integrated Circuits, Design and Verification (ICDV).
 
 - `TPC Member` in the 2023 IEEE 16th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC).
@@ -45,6 +47,16 @@ permalink: /contribution/
 - `Member` of `SIS-HOG` project supported by the Key Laboratory of Smart Integrated Systems, University of Engineering and Technology, VNU, which proposes the hardware system for object detection using the HOG-SVM algorithm. (AY2019-AY2020)
 
 - `Member` of `QG-IoTSecu` project supported by Vietnam National University, Hanoi, which optimizes Secure RFID tag using Elliptic Curve Cryptography. (AY2021)
+
+### Invited Talks
+
+- `Speaker` with the topic titled "Low-Power Carbon-Aware 3D-IC-based Spiking Neural Networks for AIoT applications" in SEACAS 2024 Workshop, Malacca, Malaysia, on 13 December 2024.
+
+- `Speaker` with the topic titled "Low-Power Spiking Neural Networks for AIoT applications" in IEEE CASS Korea-Vietnam Workshop on Circuits and Systems, Bundang, South Korea, on 27 August 2024.
+
+- `Speaker` with the topic titled "Low-Power 3-D IC-based Spiking Neural Networks" in ITI Technology Seminar, Advanced IC Design Techniques, Hanoi, Vietnam, on 14 May 2024.
+
+- `Speaker` with the topic titled "A Tiny Neuron Network System based on RISC-V Processor" in ITI-Seminar Internet-of-Things: Emerging Applications, Hanoi, Vietnam, on 18 February 2022.
 
 ### Teaching Assistant
 
