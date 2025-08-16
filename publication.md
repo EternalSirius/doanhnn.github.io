@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Publication
+title: Publications
 permalink: /publication/
 ---
 
-### Journal Article
+### Journal Articles
 
 - Kobayashi, Ryoji and `Nguyen, Ngo Doanh` and A. B. Abdallah and Nguyen, Anh Vu Doan and Dang, Nam Khanh, "ApproxiMorph: Energy-efficient Neuromorphic System with Layer-wise Approximation of Spiking Neural Networks and 3D-Stacked SRAM", in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), doi: 10.1109/TCAD.2025.3597251.
  
