@@ -8,7 +8,7 @@ permalink: /opensource/
 
 [[Link](https://unic-cass.github.io)]
 
-This cool website is a good start for hardware-design beginners. It introduces both the analog and digital design flow using the opensoure toolsand the Skywater 130nm PDK.
+This cool website is a good start for hardware-design beginners. It introduces both the analog and digital design flow using the opensoure tools and the Skywater 130nm PDK.
 
 ### EDAS Tool Example
 
